@@ -44,15 +44,14 @@ pip install moviepy
      ```
    - Click OK to save
 
-4. Restart Command Prompt and verify:
-ffmpeg -version
+4. Restart Command Prompt and verify: ``` ffmpeg -version ``` 
 
 ## ▶️ Run the Application
 
 Double click on `video_editor.py`
 OR 
 Open Command Prompt inside that folder and Run:
-python video_editor.py
+``` python video_editor.py ```
 
 The interface will open.
 
