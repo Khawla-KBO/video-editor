@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
-from moviepy.editor import VideoFileClip, concatenate_videoclips
+from moviepy import VideoFileClip, concatenate_videoclips
 from threading import Thread
 
 
@@ -204,3 +204,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = VideoEditorApp(root)
     root.mainloop()
+
