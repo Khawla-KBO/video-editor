@@ -10,7 +10,7 @@ It allows you to remove selected time intervals from an MP4 video.
 ## 🔧 Installation Steps
 
 ### 1️⃣ Install Python
-1. Download Python https://www.python.org/ftp/python/3.14.3/python-3.14.3-amd64.exe [from: https://www.python.org/downloads/]
+1. Download Python https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe [from: https://www.python.org/downloads/]
 2. During installation, IMPORTANT:
    ✔ Check **"Add Python to PATH"**
 3. Finish installation.
