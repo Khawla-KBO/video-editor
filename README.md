@@ -21,7 +21,7 @@ Open Command Prompt and run:
 
 ### 2️⃣ Install MoviePy
 Open Command Prompt: 
-``` pip install moviepy ``` 
+``` python -m pip install moviepy==1.0.3 ``` 
 
 ### 3️⃣ Install FFmpeg
 1. Download FFmpeg from:
