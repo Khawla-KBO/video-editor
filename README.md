@@ -18,7 +18,7 @@ It allows you to remove selected time intervals from an MP4 video.
 
 To verify:
 Open Command Prompt and run:
-python --version
+```python --version```
 
 ### 2️⃣ Install MoviePy
 Open Command Prompt:
