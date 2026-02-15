@@ -20,9 +20,7 @@ Open Command Prompt and run:
 ``` python --version ```
 
 ### 2️⃣ Install MoviePy
-Open Command Prompt:
-``` python.exe -m pip install --upgrade pip ```
-Then:
+Open Command Prompt: 
 ``` pip install moviepy ``` 
 
 ### 3️⃣ Install FFmpeg
