@@ -38,19 +38,17 @@ pip install moviepy
    - Click **Environment Variables**
    - Select **Path** → Click **Edit**
    - Click **New**
-   - Add:
-     ```
-     C:\ffmpeg\bin
-     ```
+   - Add: ``` C:\ffmpeg\bin ```
    - Click OK to save
 
 4. Restart Command Prompt and verify: ``` ffmpeg -version ``` 
 
 ## ▶️ Run the Application
+Double click on `video_editor.py`  
 
-Double click on `video_editor.py`
 OR 
-Open Command Prompt inside that folder and Run:
+
+Open Command Prompt inside that folder and Run: 
 ``` python video_editor.py ```
 
 The interface will open.
