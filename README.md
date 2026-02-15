@@ -26,8 +26,7 @@ pip install moviepy
 
 ### 3️⃣ Install FFmpeg
 1. Download FFmpeg from:
-   https://ffmpeg.org/download.html
-   (Choose Windows build)
+   https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl-shared.zip 
 
 2. Extract the ZIP file (for example to `C:\ffmpeg`)
 
